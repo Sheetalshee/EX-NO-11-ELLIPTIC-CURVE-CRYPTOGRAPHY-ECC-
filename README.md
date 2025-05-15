@@ -1,5 +1,5 @@
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
-
+## Reg no: 212223230206
 ## Aim:
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
@@ -98,12 +98,11 @@ int main() {
 ```
 
 
-
 ## Output:
+![Screenshot 2025-05-15 191547](https://github.com/user-attachments/assets/1cb3552e-a3ef-4e1d-8363-ff831a228c19)
 
-![image](https://github.com/user-attachments/assets/eb6908df-a95a-4f55-a944-8043df1e91cd)
+
 
 ## Result:
-
 The program is executed successfully
 
